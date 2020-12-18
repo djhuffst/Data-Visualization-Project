@@ -1,0 +1,99 @@
+body {
+   background-color:#fffaf0 !important;
+   
+}
+h2 {
+  font-size: 70px !important; 
+  text-align:center;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+/* 
+#wrapper {
+  margin:auto;
+  width:1440px;
+} */
+
+.col- {
+  padding-left: 3vh;
+  padding-right: 2vh;
+}
+
+label {
+  font-size: 18px;
+}
+
+input[type=radio]{
+  transform:scale(1.2);
+}
+
+input[type=select]{
+  transform:scale(1.2);
+}
+
+svg {
+  /* background-color: gray; */
+  /* border:2px solid lightgray; */
+  border-radius:10px;
+  height:600px;
+  width:600px;
+  margin:5px;
+}
+#barchart {
+  border-radius:10px;
+  height:600px;
+  width:850px;
+  margin:5px;
+}
+#circlemap {
+
+  border-radius:10px;
+  height:2000px;
+  width:1800px;
+  margin:5px;
+}
+
+
+
+html {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.countrymap {
+  stroke: lightgray;
+}
+
+ h3 {
+  text-align:center;
+  color: black;
+  padding-top: 20px;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: .5rem;
+  background: #FFFFFF;
+  color: #313639;
+  /* border: 1px solid #313639; */
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: 1.1rem;
+}
+
+div.tooltipNode {
+  position: absolute;
+  text-align: center;
+  padding: .5rem;
+  background: silver;
+  color: white;
+  border-radius: 5px;
+  pointer-events: none;
+  font-size: 13px;
+}
+.line {
+  fill: none;
+  stroke:black;
+  stroke-width: 2px;
+}

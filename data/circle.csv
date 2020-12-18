@@ -1,0 +1,211 @@
+COUNTY,CTYNAME,ageGroupTotal,Group
+1,Apache County,6407,1
+1,Apache County,12819,2
+1,Apache County,7293,3
+1,Apache County,7318,4
+1,Apache County,6036,5
+1,Apache County,5366,6
+1,Apache County,4884,7
+1,Apache County,4664,8
+1,Apache County,4760,9
+1,Apache County,5161,10
+1,Apache County,5604,11
+1,Apache County,5394,12
+1,Apache County,4772,13
+1,Apache County,11446,14
+3,Cochise County,9608,1
+3,Cochise County,17150,2
+3,Cochise County,9538,3
+3,Cochise County,10245,4
+3,Cochise County,9725,5
+3,Cochise County,10163,6
+3,Cochise County,9416,7
+3,Cochise County,8716,8
+3,Cochise County,8170,9
+3,Cochise County,8820,10
+3,Cochise County,9841,11
+3,Cochise County,10360,12
+3,Cochise County,10269,13
+3,Cochise County,30200,14
+5,Coconino County,10042,1
+5,Coconino County,18256,2
+5,Coconino County,10097,3
+5,Coconino County,16148,4
+5,Coconino County,14148,5
+5,Coconino County,22038,6
+5,Coconino County,12305,7
+5,Coconino County,10262,8
+5,Coconino County,9439,9
+5,Coconino County,8921,10
+5,Coconino County,9240,11
+5,Coconino County,10027,12
+5,Coconino County,8965,13
+5,Coconino County,17527,14
+7,Gila County,3662,1
+7,Gila County,6569,2
+7,Gila County,3630,3
+7,Gila County,3589,4
+7,Gila County,3142,5
+7,Gila County,3072,6
+7,Gila County,2823,7
+7,Gila County,2751,8
+7,Gila County,2937,9
+7,Gila County,3574,10
+7,Gila County,4265,11
+7,Gila County,4944,12
+7,Gila County,5363,13
+7,Gila County,16676,14
+9,Graham County,3527,1
+9,Graham County,6307,2
+9,Graham County,3450,3
+9,Graham County,3560,4
+9,Graham County,3520,5
+9,Graham County,3425,6
+9,Graham County,3181,7
+9,Graham County,2911,8
+9,Graham County,2722,9
+9,Graham County,2563,10
+9,Graham County,2477,11
+9,Graham County,2417,12
+9,Graham County,2177,13
+9,Graham County,5661,14
+11,Greenlee County,827,1
+11,Greenlee County,1548,2
+11,Greenlee County,868,3
+11,Greenlee County,812,4
+11,Greenlee County,67,5
+11,Greenlee County,769,6
+11,Greenlee County,756,7
+11,Greenlee County,701,8
+11,Greenlee County,660,9
+11,Greenlee County,663,10
+11,Greenlee County,690,11
+11,Greenlee County,671,12
+11,Greenlee County,581,13
+11,Greenlee County,1331,14
+12,La Paz County,1183,1
+12,La Paz County,2157,2
+12,La Paz County,1190,3
+12,La Paz County,1158,4
+12,La Paz County,1036,5
+12,La Paz County,1076,6
+12,La Paz County,1014,7
+12,La Paz County,950,8
+12,La Paz County,1002,9
+12,La Paz County,1137,10
+12,La Paz County,1395,11
+12,La Paz County,1628,12
+12,La Paz County,1864,13
+12,La Paz County,8934,14
+13,Maricopa County,334325,1
+13,Maricopa County,622484,2
+13,Maricopa County,346566,3
+13,Maricopa County,338561,4
+13,Maricopa County,338633,5
+13,Maricopa County,361081,6
+13,Maricopa County,343470,7
+13,Maricopa County,330527,8
+13,Maricopa County,323844,9
+13,Maricopa County,321640,10
+13,Maricopa County,310522,11
+13,Maricopa County,285630,12
+13,Maricopa County,255247,13
+13,Maricopa County,669124,14
+15,Mohave County,11818,1
+15,Mohave County,23422,2
+15,Mohave County,13384,3
+15,Mohave County,12951,4
+15,Mohave County,11565,5
+15,Mohave County,12269,6
+15,Mohave County,11553,7
+15,Mohave County,11246,8
+15,Mohave County,11964,9
+15,Mohave County,14223,10
+15,Mohave County,16829,11
+15,Mohave County,18711,12
+15,Mohave County,20372,13
+15,Mohave County,65571,14
+17,Navajo County,9791,1
+17,Navajo County,18432,2
+17,Navajo County,10347,3
+17,Navajo County,9939,4
+17,Navajo County,8226,5
+17,Navajo County,7835,6
+17,Navajo County,7199,7
+17,Navajo County,6992,8
+17,Navajo County,6989,9
+17,Navajo County,7634,10
+17,Navajo County,8207,11
+17,Navajo County,8367,12
+17,Navajo County,8010,13
+17,Navajo County,20164,14
+19,Pima County,72126,1
+19,Pima County,132517,2
+19,Pima County,74000,3
+19,Pima County,83683,4
+19,Pima County,102959,5
+19,Pima County,79181,6
+19,Pima County,73528,7
+19,Pima County,70545,8
+19,Pima County,68509,9
+19,Pima County,71025,10
+19,Pima County,75313,11
+19,Pima County,77194,12
+19,Pima County,74118,13
+19,Pima County,210660,14
+21,Pinal County,31895,1
+21,Pinal County,61331,2
+21,Pinal County,33305,3
+21,Pinal County,29343,4
+21,Pinal County,27384,5
+21,Pinal County,32508,6
+21,Pinal County,34614,7
+21,Pinal County,33657,8
+21,Pinal County,30371,9
+21,Pinal County,28047,10
+21,Pinal County,27239,11
+21,Pinal County,27589,12
+21,Pinal County,28939,13
+21,Pinal County,84238,14
+23,Santa Cruz County,4107,1
+23,Santa Cruz County,8193,2
+23,Santa Cruz County,4707,3
+23,Santa Cruz County,4695,4
+23,Santa Cruz County,3506,5
+23,Santa Cruz County,2979,6
+23,Santa Cruz County,2946,7
+23,Santa Cruz County,3111,8
+23,Santa Cruz County,3312,9
+23,Santa Cruz County,3439,10
+23,Santa Cruz County,3581,11
+23,Santa Cruz County,3550,12
+23,Santa Cruz County,3270,13
+23,Santa Cruz County,8682,14
+25,Yavapai County,11748,1
+25,Yavapai County,23527,2
+25,Yavapai County,13599,3
+25,Yavapai County,13924,4
+25,Yavapai County,12361,5
+25,Yavapai County,12014,6
+25,Yavapai County,11550,7
+25,Yavapai County,11665,8
+25,Yavapai County,12337,9
+25,Yavapai County,14473,10
+25,Yavapai County,17853,11
+25,Yavapai County,21435,12
+25,Yavapai County,24249,13
+25,Yavapai County,72952,14
+27,Yuma County,18138,1
+27,Yuma County,32085,2
+27,Yuma County,17924,3
+27,Yuma County,18732,4
+27,Yuma County,20524,5
+27,Yuma County,17076,6
+27,Yuma County,15180,7
+27,Yuma County,13872,8
+27,Yuma County,13371,9
+27,Yuma County,13425,10
+27,Yuma County,13160,11
+27,Yuma County,12226,12
+27,Yuma County,11357,13
+27,Yuma County,41995,14

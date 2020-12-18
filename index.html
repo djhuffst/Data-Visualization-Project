@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <title>Arizona Demographic Data</title>
+  <link rel='stylesheet' href='css/styles.css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+  <script src='https://d3js.org/d3.v5.min.js'></script>
+  <script src='scripts/demographic.js'></script>
+
+</head>
+
+<body>
+  <div id='col-12'>
+    <h2>Arizona Demographic Data</h2>
+    <p style='font-size: 20px; color: gray; text-align: center;'>The data below is based on the distribution of ages in each County</p>
+  </div>
+  <div class='container-fluid'>
+    <div class='row'>
+      <div class='col-'>
+        <h5>Select Year:</h5>
+        <select name='Year' id='yearSelect' onchange='drawBarChart()' style= "margin-bottom: 20px; font-size: 18px;">
+          <option value='0'>2009</option>
+          <option value='1'>2010</option>
+          <option value='2'>2011</option>
+          <option value='3'>2012</option>
+          <option value='4'>2013</option>
+          <option value='5'>2014</option>
+          <option value='6'>2015</option>
+          <option value='7'>2016</option>
+          <option value='8'>2017</option>
+          <option value='9'>2018</option>
+          <option value='10'>2019</option>
+          <option value='11'>2020</option>
+        </select>
+        <div>
+          <h5>Select Color Scale:</h5>
+          <div>
+            <input type="radio" id="BrBG" name="colorChoice" value="BrBG" onchange="changeColor(this)" checked>
+            <label for="BrBG">Brown, Blue, Green</label>
+          </div>
+          <div>
+            <input type="radio" id="RdBu" name="colorChoice" value="RdBu" onchange="changeColor(this)">
+            <label for="RdBu">Red, Blue</label>
+          </div>
+          <div>
+            <input type="radio" id="RdYlGn" name="colorChoice" value="RdYlGn" onchange="changeColor(this)">
+            <label for="RdYlGn">Red, Yellow, Green</label>
+          </div>
+          <div>
+            <input type="radio" id="Spectral" name="colorChoice" value="Spectral" onchange="changeColor(this)">
+            <label for="Spectral">Spectral</label>
+          </div>
+          <div>
+            <input type="radio" id="Paired" name="colorChoice" value="Paired" onchange="changeColor(this)">
+            <label for="Paired">Paired Colors</label>
+          </div>
+        </div>
+      </div>
+      <div class='col-4'>
+        <svg id='map'></svg>
+      </div>
+      <div class='col-6'>
+        <svg id='barchart'></svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <svg id='circlemap'>
+    </svg>
+  </div>
+</body>
+
+</html>

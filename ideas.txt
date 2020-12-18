@@ -1,0 +1,16 @@
+idea 1: zoomable circle map
+    circles with all counties
+    in counties, male and female circles
+    in each gender circle, there are the different demographic groups
+
+idea 2: separating nodes from center
+    both male and female nodes in center, based on total pop thing
+    separates out with animation
+
+idea 3: grid like vis of nodes based on age groups
+    each county in the age group 
+    hover over to see additional info?
+
+idea 4: grid like vis of nodes based on county
+    each county area would have gender stuff
+    
